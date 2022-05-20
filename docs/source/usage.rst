@@ -26,6 +26,8 @@ will raise an exception.
 
 .. autoexception:: lumache.InvalidKindError
 
+.. _exemple:
+
 For example:
 
 >>> import lumache
