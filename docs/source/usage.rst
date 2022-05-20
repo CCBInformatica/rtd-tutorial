@@ -28,7 +28,8 @@ will raise an exception.
 
 .. _exemple:
 
-For example:
+Example
+-------
 
 >>> import lumache
 >>> lumache.get_random_ingredients()
