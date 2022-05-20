@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
-===================================
+Aquest és l'arxiu d'aprenentatge de Read The Docs per CCB!
+==========================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Sóm una Societat Mercantil de capital públic.
+CCB Serveis Mediambientals, SAU, va ser constituïda a l’any 1994 pel Consorci per a la Defensa de la Conca del riu Besòs, actual Consorci Besòs Tordera, amb la finalitat de realitzar una gestió directa de part de les àrees de competència del Consorci.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+El document d'us :doc:`usage` et donara més informació
+i exemples :ref:`exemples` the project.
 
 .. note::
 
-   This project is under active development.
+   Aquesta pàgina de documentació està en construcció.
 
-Contents
---------
+Continguts
+----------
 
 .. toctree::
 
-   usage
-   api
+   Punt 1
+   Punt 2
