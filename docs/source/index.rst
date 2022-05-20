@@ -5,7 +5,7 @@ Sóm una Societat Mercantil de capital públic.
 CCB Serveis Mediambientals, SAU, va ser constituïda a l’any 1994 pel Consorci per a la Defensa de la Conca del riu Besòs, actual Consorci Besòs Tordera, amb la finalitat de realitzar una gestió directa de part de les àrees de competència del Consorci.
 
 El document d'us :doc:`usage` et donara més informació
-i exemples :ref:`exemples` the project.
+i :ref:`exemple` the project.
 
 .. note::
 
